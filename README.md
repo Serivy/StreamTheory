@@ -1,8 +1,9 @@
 # Bit Queue
-Thanks for using the bit queue system to help manage.
+Thanks for using the bit queue system to help manage interaction with your viewers. This system allow viewers, followers or subscribers to join a queue. Viewers can use bits to join a queue and increase their position. This queue is commonly used for subscriber games and lets you customize fields so you can get your viewers in the game as quickly as possible.
 
 ## Install
-Goto the queue extension website at https://www.twitch.tv/ext/49qu7wv3myvul5fa7fxazo1bcsnc8j-0.0.1 and click install. Currently configuration is not required.
+Goto the queue extension website for Bit Queue at https://www.twitch.tv/ext/49qu7wv3myvul5fa7fxazo1bcsnc8j and click install. Currently configuration is not required.
+If you are not an affiliate you can use Queue https://www.twitch.tv/ext/5ul5ajg49sjyrc8ezab5qqv25fdscp which does not use bits.
 
 ## Broadcaster
 To create a queue, goto your Live Dashboard and enter the following details.
